@@ -42,4 +42,3 @@ This theme is built to be deployed easily to [GitHub Pages](https://pages.github
 [MIT](https://github.com/rowanoulton/galileo-theme/blob/master/LICENSE).
 
 Do whatever you damn well please with it. I'm always glad to hear what folks are doing with it though — let me know on [Twitter](https://twitter.com/rowanoulton).
-# travelog
